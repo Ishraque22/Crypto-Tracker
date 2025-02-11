@@ -1,18 +1,17 @@
 # Crypto-Tracker
 To run the application do the following:
 
-1. Set up your environment:
-2.
-3.  a. Install Python
-4.  
-     b. Install Libraries:
+ Set up your environment:
 
+   a. Install Python
+  
+   b. Install Libraries:
 
-    pip install requests
+pip install requests
 
-     pip install pandas
+pip install pandas
 
-     pip install openpyxl
+pip install openpyxl
 
 Now copy the code provided in main_work.py.
 
